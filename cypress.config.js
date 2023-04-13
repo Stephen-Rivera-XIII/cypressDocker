@@ -6,8 +6,8 @@ module.exports = defineConfig({
       // implement node event listeners here
     },
     env: {
-      username: 'stephen@roobet.com',
-      password: ' ZXW26Oe566un',
+      username: 'username,
+      password: ' password',
     },
   },
   defaultCommandTimeout: 10000,
